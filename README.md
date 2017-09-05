@@ -4,9 +4,11 @@ This project is a small scrapper who takes pdf's files from the courses who you'
 
 ## Getting Started
 
-You'll need clone this repository on your machine, after that you must to go to the 'payload' directory:
+Clone this repository on your machine, create 2 directories ('file' and 'payload'), and after this
+ to go to the 'payload' directory:
+
 ```
-cd payload
+mkdir file && mkdir payload && cd payload
 ```
 
 and create a file named 'payload.py' with a python dictionary following this model (with your login information):
