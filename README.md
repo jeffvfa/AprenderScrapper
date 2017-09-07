@@ -8,7 +8,7 @@ Clone this repository on your machine, create 2 directories ('file' and 'payload
  to go to the 'payload' directory:
 
 ```
-mkdir file && mkdir payload && cd payload
+mkdir file && mkdir payload && cd payload && touch payload.py
 ```
 
 and create a file named 'payload.py' with a python dictionary following this model (with your login information):
