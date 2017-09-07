@@ -46,7 +46,7 @@ Just send an issue.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 Special thanks to [Seninha](https://github.com/Seninha) who inspired me to make this project.
